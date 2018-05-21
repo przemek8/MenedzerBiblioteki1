@@ -56,8 +56,8 @@
     <Compile Include="Books\BookValidator.cs" />
     <Compile Include="Books\IBookRepository.cs" />
     <Compile Include="Books\IBorrowerListBuilder.cs" />
-    <Compile Include="FileService.cs" />
-    <Compile Include="IFileService.cs" />
+    <Compile Include="Files\FileService.cs" />
+    <Compile Include="Files\IFileService.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
